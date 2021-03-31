@@ -1,0 +1,108 @@
+body{
+    background-color:#e3e11c;
+    
+}
+@import url('https://fonts.googleapis.com/css2?family=Audiowide&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100&display=swap');
+ul{
+    margin: auto;
+    float: right;
+    color:black;
+    font-family: 'Montserrat';
+}
+
+.navbar{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top:0px;
+   color:#4eaeb1;
+   background-color:none;
+  
+   
+}
+.welcome{
+    background-color: cornsilk;
+}
+h2{
+    font-weight: 900;
+    font-family: 'Audiowide';
+}
+.images{
+    position: relative;
+    margin-right: 150px;
+}
+h3{
+    font-size: 2vmax;
+    margin-top: 10%;
+    color:black;
+}
+p{
+    color:coral;
+    font-family: 'Montserrat','Times New Roman', Times, serif;
+}
+.cards{
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+    justify-content: space-between;
+    width: 100%;
+ 
+
+}
+
+.para{
+    background-color: darkslategray;
+    border: 2px solid darkslategray;
+    border-radius: 10px;
+    overflow: hidden;
+}
+.container{
+    display: flex;
+    flex-direction: row;
+    
+}
+li:hover{
+   color:black; 
+}
+h6{
+    
+    color: blanchedalmond;
+}
+li{
+    color:white;
+}
+.carousel{
+    margin: auto;
+    
+}
+
+.card1{
+    height:30vh;
+    width:30vw;
+    background-color:orangered;
+    border-radius: 5%;
+}
+.card2{
+    height:30vh;
+    width:30vw;
+    background-color:yellow;
+    border-radius: 5%;
+
+}
+.card3{
+    height:30vh;
+    width:30vw;
+    background-color:violet;
+    border-radius: 5%;
+
+}
+.card4{
+    height:30vh;
+    width:30vw;
+    background-color:springgreen;
+    border-radius: 5%;
+}
+h1{
+    color: cadetblue;
+}
