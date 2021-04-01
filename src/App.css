@@ -132,14 +132,17 @@ button{
   flex-direction: row;
 }
 input{
+  width: 180px;
   margin: 10px;
 }
 form{
-  
   margin: auto;
+  
+  width: 50%;
 }
 .details{
-  margin-top: 300px;
+  margin-top: 10%;
+  margin-left: 40%;
 }
 p{
   font-weight: bolder;

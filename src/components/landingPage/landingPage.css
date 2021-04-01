@@ -35,7 +35,7 @@ h2{
 h3{
     font-size: 2vmax;
     margin-top: 10%;
-    color:black;
+  color:rgba( 255, 255, 255, 0.18 );
 }
 p{
     color:coral;
@@ -78,30 +78,36 @@ li{
 }
 
 .card1{
-    height:30vh;
-    width:30vw;
-    background-color:orangered;
-    border-radius: 5%;
+    background: rgba( 151, 222, 65, 0.55 );
+box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+backdrop-filter: blur( 6.0px );
+-webkit-backdrop-filter: blur( 6.0px );
+border-radius: 10px;
+border: 1px solid rgba( 255, 255, 255, 0.18 );
 }
 .card2{
-    height:30vh;
-    width:30vw;
-    background-color:yellow;
-    border-radius: 5%;
-
+    background: rgba( 16, 110, 214, 0.55 );
+box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+backdrop-filter: blur( 6.0px );
+-webkit-backdrop-filter: blur( 6.0px );
+border-radius: 10px;
+border: 1px solid rgba( 255, 255, 255, 0.18 );
 }
 .card3{
-    height:30vh;
-    width:30vw;
-    background-color:violet;
-    border-radius: 5%;
-
+    background: rgba( 182, 53, 208, 0.55 );
+    box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+    backdrop-filter: blur( 6.0px );
+    -webkit-backdrop-filter: blur( 6.0px );
+    border-radius: 10px;
+    border: 1px solid rgba( 255, 255, 255, 0.18 );
 }
 .card4{
-    height:30vh;
-    width:30vw;
-    background-color:springgreen;
-    border-radius: 5%;
+    background: rgba( 245, 166, 35, 0.55 );
+    box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+    backdrop-filter: blur( 6.0px );
+    -webkit-backdrop-filter: blur( 6.0px );
+    border-radius: 10px;
+    border: 1px solid rgba( 255, 255, 255, 0.18 );
 }
 h1{
     color: cadetblue;

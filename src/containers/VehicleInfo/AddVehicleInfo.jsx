@@ -59,7 +59,7 @@ export default function AddVehicleInfo() {
               <div>
                 <input type="text" placeholder="vehicle-capacity" value={capacity} onChange={handleCapacityChange}/>
                 </div>
-            <button type="button" onClick={onSubmit}>submit</button>
+            <button type="button" style={{marginLeft:"23%"}} onClick={onSubmit}>submit</button>
            
             </form>
             </div>

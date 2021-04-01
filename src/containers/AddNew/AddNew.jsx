@@ -88,7 +88,7 @@ export default function AddNew() {
                 <div>
                
                 </div>
-            <button type="button" onClick={onSubmit}>submit</button>
+            <button type="button" style={{marginLeft:"23%"}} onClick={onSubmit}>submit</button>
            
             </form>
             </div>
